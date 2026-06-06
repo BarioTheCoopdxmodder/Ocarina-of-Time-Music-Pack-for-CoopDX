@@ -308,8 +308,8 @@ function hud()
        if scale < 255/2 then
           scale = scale + 7
        end
-      djui_hud_print_text("YOU GOT A STAR!", djui_hud_get_screen_width() / 2 - djui_hud_measure_text("YOU GOT A STAR!") / 4, 175, 0.5)
-      djui_hud_print_text("YOU GOT A STAR!", djui_hud_get_screen_width() / 2 - djui_hud_measure_text("YOU GOT A STAR!") / 4, 175, 0.5)
+      djui_hud_print_text("CONGRATULATIONS", djui_hud_get_screen_width() / 2 - djui_hud_measure_text("CONGRATULATIONS") / 4, 175, 0.5)
+      djui_hud_print_text("CONGRATULATIONS", djui_hud_get_screen_width() / 2 - djui_hud_measure_text("CONGRATULATIONS") / 4, 175, 0.5)
     end
     
     djui_hud_set_color(0xca, 0, 0x40, 0x20)
