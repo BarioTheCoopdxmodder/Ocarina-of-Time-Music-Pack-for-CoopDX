@@ -7,3 +7,7 @@ all ya gotta do is `git clone` this, move the files to the mods folder on coopdx
 
 # PS
 THIS WILL NOT BE USED FOR `sm64ex-coop` and will never be used for it.
+
+# Help Wanted
+
+I am hiring people to help me fix a few bugs. If you want to help, please put an issue. **I know its not a bug, but i dont know what else to do.**
